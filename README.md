@@ -2,7 +2,7 @@
 
 > Business Intelligence & Analytics capstone: turning order-level data into an executive-ready decision report with three strategic recommendations, ROI projections and a 90-day implementation plan.
 
-![Python](https://img.shields.io/badge/Python-3.x-blue) ![pandas](https://img.shields.io/badge/pandas-analysis-150458) ![Jupyter](https://img.shields.io/badge/Jupyter-notebook-F37626) ![Status](https://img.shields.io/badge/status-submitted%20for%20mentor%20review-green)
+![Python](https://img.shields.io/badge/Python-3.x-blue) ![pandas](https://img.shields.io/badge/pandas-analysis-150458) ![Jupyter](https://img.shields.io/badge/Jupyter-notebook-F37626) 
 
 ---
 
